@@ -6,7 +6,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class TrojuhelnikTest {
-    double delta = 0.000001;
+    /*double delta = 0.000001;
 
     @Before
     public void setUp() throws Exception {
@@ -52,5 +52,5 @@ public class TrojuhelnikTest {
         result = t.toString();
         expResult = "Trojuhelnik{stranaA=2.5, stranaB=3.2, stranaC=4.4}";
         assertEquals(expResult, result);
-    }
+    }*/
 }
