@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cz.mendelu.pjj.prednaska2.MyStaticMethodsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-10-08T12:39:20" hostname="jedla" time="0.006">
+  <properties/>
+  <testcase name="preponaPravouhleho" classname="cz.mendelu.pjj.prednaska2.MyStaticMethodsTest" time="0.002"/>
+  <testcase name="stringToObject" classname="cz.mendelu.pjj.prednaska2.MyStaticMethodsTest" time="0.0"/>
+  <testcase name="minAMax" classname="cz.mendelu.pjj.prednaska2.MyStaticMethodsTest" time="0.001"/>
+  <testcase name="bodyNaZnamku" classname="cz.mendelu.pjj.prednaska2.MyStaticMethodsTest" time="0.0"/>
+  <testcase name="objectToString" classname="cz.mendelu.pjj.prednaska2.MyStaticMethodsTest" time="0.0"/>
+  <testcase name="jeDelitelne" classname="cz.mendelu.pjj.prednaska2.MyStaticMethodsTest" time="0.0"/>
+  <testcase name="jeRcDelitelne11" classname="cz.mendelu.pjj.prednaska2.MyStaticMethodsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
